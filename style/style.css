@@ -1094,14 +1094,104 @@ span{
         padding: 2rem 3%;
     }
 
-    .home-content h1{
-        font-size: 40px;
+    .artwork-bloc-text{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
     }
 
-    .home-content p{
-        font-size: 16px;
+    .artwork-text-one h2{
+        text-align: center;
+    }
+
+    .artwork-text-one h3{
+        text-align: center;
+    }
+
+    .artwork-text-one p{
+        text-align: center;
+
     }
 
 }
 
+@media( max-width:750px){
 
+    .home-content h1{
+        font-size: 40px;
+    }
+    .about_us-block-two-h1 {
+        font-size: 40px;
+    }
+
+    .home-content p{
+        font-size: 18px;
+    }
+
+
+
+
+    .about_us-h1 {
+        font-size: 40px;
+    }
+
+    .about_us p {
+        font-size: 18px;
+    }
+
+    .about_us h2{
+        font-size: 20px;
+    }
+
+    .about_us h3{
+        font-size: 18px;
+    }
+
+
+
+
+
+    .roadmap-head{
+        font-size: 40px;
+    }
+
+    .timeline-number{
+        font-size: 20px;
+    }
+
+    .timeline-content-h2{
+        font-size: 20px;
+    }
+
+    .roadmap p {
+        font-size: 18px;
+    }
+
+
+    .artwork h1{
+        font-size: 40px;
+    }
+
+    .artwork h2{
+        font-size: 20px;
+    }
+
+    .artwork p{
+        font-size: 18px;
+    }
+
+
+    .questions h1{
+        font-size: 40px;
+    }
+
+    .questions p{
+        font-size: 18px;
+    }
+
+    .collapsible {
+        font-size: 18px;
+    }
+
+}
