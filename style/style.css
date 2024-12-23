@@ -1094,6 +1094,14 @@ span{
         padding: 2rem 3%;
     }
 
+    .home-content h1{
+        font-size: 40px;
+    }
+
+    .home-content p{
+        font-size: 16px;
+    }
+
 }
 
 
