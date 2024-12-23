@@ -1123,34 +1123,35 @@ span{
 
 @media( max-width:750px){
 
+
     .home-content h1{
-        font-size: 40px;
+        font-size: 30px;
     }
     .about_us-block-two-h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .home-content p{
-        font-size: 18px;
+        font-size: 16px;
     }
 
 
 
 
     .about_us-h1 {
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .about_us p {
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .about_us h2{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .about_us h3{
-        font-size: 18px;
+        font-size: 16px;
     }
 
 
@@ -1158,45 +1159,53 @@ span{
 
 
     .roadmap-head{
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .timeline-number{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .timeline-content-h2{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .roadmap p {
-        font-size: 18px;
+        font-size: 16px;
     }
 
 
     .artwork h1{
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .artwork h2{
-        font-size: 20px;
+        font-size: 18px;
     }
 
     .artwork p{
-        font-size: 18px;
+        font-size: 16px;
     }
 
 
     .questions h1{
-        font-size: 40px;
+        font-size: 30px;
     }
 
     .questions p{
-        font-size: 18px;
+        font-size: 16px;
     }
 
     .collapsible {
-        font-size: 18px;
+        font-size: 16px;
+    }
+
+    .footer ul li a {
+        font-size: 16px;
+    }
+
+    .footer .copyright{
+        font-size: 12px;
     }
 
 }
