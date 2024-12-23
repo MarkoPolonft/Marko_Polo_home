@@ -1016,6 +1016,8 @@ span{
         gap: 5rem;
     }
 
+   
+
 }
 
 @media( max-width:1150px){
@@ -1066,7 +1068,7 @@ span{
     }
 
     .about_us-img img {
-        width: 52vw;
+        width: 60vw;
     }
 
 
@@ -1124,11 +1126,16 @@ span{
 @media( max-width:750px){
 
 
+    .home-img img{
+        max-width: 60vw;
+        margin: 3rem 0;
+    }
+
     .home-content h1{
-        font-size: 30px;
+        font-size: 35px;
     }
     .about_us-block-two-h1 {
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .home-content p{
@@ -1139,7 +1146,7 @@ span{
 
 
     .about_us-h1 {
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .about_us p {
@@ -1159,7 +1166,7 @@ span{
 
 
     .roadmap-head{
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .timeline-number{
@@ -1176,7 +1183,7 @@ span{
 
 
     .artwork h1{
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .artwork h2{
@@ -1189,7 +1196,7 @@ span{
 
 
     .questions h1{
-        font-size: 30px;
+        font-size: 35px;
     }
 
     .questions p{
